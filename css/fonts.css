@@ -1,0 +1,29 @@
+/* 本地字体定义 */
+@font-face {
+    font-family: 'PingFang SC';
+    src: local('PingFang SC'), local('PingFangSC-Regular');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PingFang SC';
+    src: local('PingFang SC Medium'), local('PingFangSC-Medium');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PingFang SC';
+    src: local('PingFang SC Semibold'), local('PingFangSC-Semibold');
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* 备用系统字体 */
+@font-face {
+    font-family: 'System Font';
+    src: local('Heiti SC'), local('Microsoft YaHei'), local('SimHei');
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,33 @@
+/* 简单的本地图标样式 */
+.icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    position: relative;
+}
+
+/* 下拉箭头图标 */
+.icon-dropdown::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -25%) rotate(45deg);
+    width: 0.5em;
+    height: 0.5em;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+}
+
+/* 复选框勾选图标 */
+.icon-check::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%) rotate(45deg);
+    width: 0.3em;
+    height: 0.6em;
+    border-right: 2px solid currentColor;
+    border-bottom: 2px solid currentColor;
+}

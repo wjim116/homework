@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>今日作业</title>
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/icons.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>今日作业</h1>
+            <div class="date-info">
+                <span id="current-date">加载中...</span>
+                <span id="current-week">第 ? 周</span>
+            </div>
+        </header>
+
+        <div class="control-panel">
+            <div class="selection-row">
+                <div class="select-wrapper">
+                    <select id="class-select">
+                        <option value="" disabled selected>选择班级</option>
+                        <!-- 班级选项将通过JavaScript动态加载 -->
+                    </select>
+                </div>
+
+                <div class="weekday-buttons">
+                    <button class="weekday-btn" data-day="monday">周一</button>
+                    <button class="weekday-btn" data-day="tuesday">周二</button>
+                    <button class="weekday-btn" data-day="wednesday">周三</button>
+                    <button class="weekday-btn" data-day="thursday">周四</button>
+                    <button class="weekday-btn" data-day="friday">周五</button>
+                    <button class="weekday-btn" data-day="saturday">周六</button>
+                    <button class="weekday-btn" data-day="sunday">周日</button>
+                </div>
+
+                <div class="auto-week">
+                    <input type="checkbox" id="auto-week-checkbox" checked>
+                    <label for="auto-week-checkbox">自动周次</label>
+                </div>
+            </div>
+
+            <div class="subject-buttons">
+                <button class="subject-btn" data-subject="语文">语文</button>
+                <button class="subject-btn" data-subject="数学">数学</button>
+                <button class="subject-btn" data-subject="英语">英语</button>
+                <button class="subject-btn" data-subject="日语">日语</button>
+                <button class="subject-btn" data-subject="政治">政治</button>
+                <button class="subject-btn" data-subject="历史">历史</button>
+                <button class="subject-btn" data-subject="地理">地理</button>
+                <button class="subject-btn" data-subject="物理">物理</button>
+                <button class="subject-btn" data-subject="化学">化学</button>
+                <button class="subject-btn" data-subject="生物">生物</button>
+                <button class="subject-btn" data-subject="信息">信息</button>
+                <button class="subject-btn" data-subject="通用">通用</button>
+            </div>
+        </div>
+
+        <div class="homework-display">
+            <div id="homework-content">
+                <div class="placeholder-message">
+                    请选择班级、周次和科目查看作业
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
