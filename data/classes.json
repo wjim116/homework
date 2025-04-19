@@ -3,60 +3,60 @@
     "class": "1",
     "schedule": {
       "monday": [
-        {"subject": "数学", "teacher": "林中奥", "period": 1},
+        {"subject": "数学", "teacher": "林申奥", "period": 1},
         {"subject": "英语", "teacher": "一A英走", "period": 2},
-        {"subject": "语文", "teacher": "黄则昌", "period": 3},
+        {"subject": "语文", "teacher": "黄则慧", "period": 3},
         {"subject": "历史", "teacher": "李英睿", "period": 4},
-        {"subject": "化学", "teacher": "高有亮", "period": 5},
+        {"subject": "化学", "teacher": "高有克", "period": 5},
         {"subject": "体育", "teacher": "陈兴可", "period": 6},
         {"subject": "政治", "teacher": "陈金海", "period": 7},
         {"subject": "综合实践课", "teacher": "", "period": 8}
       ],
       "tuesday": [
         {"subject": "历史", "teacher": "李英睿", "period": 1},
-        {"subject": "语文", "teacher": "黄则昌", "period": 2},
-        {"subject": "化学", "teacher": "高有亮", "period": 3},
+        {"subject": "语文", "teacher": "黄则慧", "period": 2},
+        {"subject": "化学", "teacher": "高有克", "period": 3},
         {"subject": "物理", "teacher": "赵新洋", "period": 4},
-        {"subject": "数学", "teacher": "林中奥", "period": 5},
+        {"subject": "数学", "teacher": "林申奥", "period": 5},
         {"subject": "英语", "teacher": "一A英人", "period": 6},
-        {"subject": "地理", "teacher": "周绍驼", "period": 7},
-        {"subject": "周前会", "teacher": "周绍驼", "period": 8}
+        {"subject": "地理", "teacher": "周绍驰", "period": 7},
+        {"subject": "周前会", "teacher": "周绍驰", "period": 8}
       ],
       "wednesday": [
         {"subject": "英语", "teacher": "一A英人", "period": 1},
-        {"subject": "化学", "teacher": "高有亮", "period": 2},
+        {"subject": "化学", "teacher": "高有克", "period": 2},
         {"subject": "政治", "teacher": "陈金海", "period": 3},
-        {"subject": "地理", "teacher": "周绍驼", "period": 4},
-        {"subject": "语文", "teacher": "黄则昌", "period": 5},
-        {"subject": "生物", "teacher": "吴正淮", "period": 6},
+        {"subject": "地理", "teacher": "周绍驰", "period": 4},
+        {"subject": "语文", "teacher": "黄则慧", "period": 5},
+        {"subject": "生物", "teacher": "吴正准", "period": 6},
         {"subject": "音乐", "teacher": "黄振付", "period": 7},
-        {"subject": "数学", "teacher": "林中奥", "period": 8}
+        {"subject": "数学", "teacher": "林申奥", "period": 8}
       ],
       "thursday": [
-        {"subject": "语文", "teacher": "黄则昌", "period": 1},
+        {"subject": "语文", "teacher": "黄则慧", "period": 1},
         {"subject": "政治", "teacher": "陈金海", "period": 2},
         {"subject": "英语", "teacher": "一A英人", "period": 3},
         {"subject": "物理", "teacher": "赵新洋", "period": 4},
-        {"subject": "数学", "teacher": "林中奥", "period": 5},
-        {"subject": "生物", "teacher": "吴正淮", "period": 6},
+        {"subject": "数学", "teacher": "林申奥", "period": 5},
+        {"subject": "生物", "teacher": "吴正准", "period": 6},
         {"subject": "心理", "teacher": "卓旭东", "period": 7},
-        {"subject": "地理", "teacher": "周绍驼", "period": 8}
+        {"subject": "地理", "teacher": "周绍驰", "period": 8}
       ],
       "friday": [
-        {"subject": "数学", "teacher": "林中奥", "period": 1},
-        {"subject": "地理", "teacher": "周绍驼", "period": 2},
+        {"subject": "数学", "teacher": "林申奥", "period": 1},
+        {"subject": "地理", "teacher": "周绍驰", "period": 2},
         {"subject": "历史", "teacher": "李英睿", "period": 3},
         {"subject": "英语", "teacher": "一A英人", "period": 4},
-        {"subject": "生物", "teacher": "吴正淮", "period": 5},
+        {"subject": "生物", "teacher": "吴正准", "period": 5},
         {"subject": "政治", "teacher": "陈金海", "period": 6},
-        {"subject": "语文", "teacher": "黄则昌", "period": 7},
+        {"subject": "语文", "teacher": "黄则慧", "period": 7},
         {"subject": "物理", "teacher": "赵新洋", "period": 8}
       ],
       "saturday": [
         {"subject": "英语", "teacher": "一A英人", "period": 1},
         {"subject": "历史", "teacher": "李英睿", "period": 2},
-        {"subject": "数学", "teacher": "林中奥", "period": 3},
-        {"subject": "语文", "teacher": "黄则昌", "period": 4}
+        {"subject": "数学", "teacher": "林申奥", "period": 3},
+        {"subject": "语文", "teacher": "黄则慧", "period": 4}
       ],
       "sunday": []
     }
@@ -71,15 +71,15 @@
         {"subject": "化学", "teacher": "黄晓节", "period": 4},
         {"subject": "数学", "teacher": "王丽", "period": 5},
         {"subject": "生物", "teacher": "胡俊柏", "period": 6},
-        {"subject": "体育", "teacher": "陈琦实", "period": 7},
+        {"subject": "体育", "teacher": "陈瑞英", "period": 7},
         {"subject": "综合实践课", "teacher": "", "period": 8}
       ],
       "tuesday": [
         {"subject": "语文", "teacher": "吴贤雯", "period": 1},
-        {"subject": "物理", "teacher": "陈靖", "period": 2},
+        {"subject": "物理", "teacher": "陈婧", "period": 2},
         {"subject": "历史", "teacher": "常晓丽", "period": 3},
         {"subject": "数学", "teacher": "王丽", "period": 4},
-        {"subject": "地理", "teacher": "赫明礼", "period": 5},
+        {"subject": "地理", "teacher": "韩明礼", "period": 5},
         {"subject": "英语", "teacher": "一A英人", "period": 6},
         {"subject": "政治", "teacher": "陈金海", "period": 7},
         {"subject": "周前会", "teacher": "", "period": 8}
@@ -89,40 +89,410 @@
         {"subject": "数学", "teacher": "王丽", "period": 2},
         {"subject": "生物", "teacher": "胡俊柏", "period": 3},
         {"subject": "政治", "teacher": "陈金海", "period": 4},
-        {"subject": "地理", "teacher": "赫明礼", "period": 5},
+        {"subject": "地理", "teacher": "韩明礼", "period": 5},
         {"subject": "历史", "teacher": "常晓丽", "period": 6},
         {"subject": "心理", "teacher": "卓旭东", "period": 7},
         {"subject": "语文", "teacher": "吴贤雯", "period": 8}
       ],
       "thursday": [
         {"subject": "语文", "teacher": "吴贤雯", "period": 1},
-        {"subject": "地理", "teacher": "赫明礼", "period": 2},
+        {"subject": "地理", "teacher": "韩明礼", "period": 2},
         {"subject": "英语", "teacher": "一A英人", "period": 3},
         {"subject": "历史", "teacher": "常晓丽", "period": 4},
         {"subject": "政治", "teacher": "陈金海", "period": 5},
         {"subject": "数学", "teacher": "王丽", "period": 6},
         {"subject": "音乐", "teacher": "黄振付", "period": 7},
-        {"subject": "物理", "teacher": "陈靖", "period": 8}
+        {"subject": "物理", "teacher": "陈婧", "period": 8}
       ],
       "friday": [
         {"subject": "语文", "teacher": "吴贤雯", "period": 1},
         {"subject": "数学", "teacher": "王丽", "period": 2},
         {"subject": "化学", "teacher": "黄晓节", "period": 3},
         {"subject": "英语", "teacher": "一A英人", "period": 4},
-        {"subject": "物理", "teacher": "陈靖", "period": 5},
-        {"subject": "地理", "teacher": "赫明礼", "period": 6},
+        {"subject": "物理", "teacher": "陈婧", "period": 5},
+        {"subject": "地理", "teacher": "韩明礼", "period": 6},
         {"subject": "化学", "teacher": "黄晓节", "period": 7},
-        {"subject": "体育", "teacher": "陈琦实", "period": 8}
+        {"subject": "体育", "teacher": "陈瑞英", "period": 8}
       ],
       "saturday": [
         {"subject": "英语", "teacher": "一A英人", "period": 1},
         {"subject": "数学", "teacher": "王丽", "period": 2},
         {"subject": "历史", "teacher": "常晓丽", "period": 3},
+        {"subject": "语文", "teacher": "吴贤雯", "period": 4}
+      ],
+      "sunday": []
+    }
+  },
+  {
+    "class": "3",
+    "schedule": {
+      "monday": [
+        {"subject": "英语", "teacher": "一B英人", "period": 1},
+        {"subject": "数学", "teacher": "程昌磊", "period": 2},
+        {"subject": "语文", "teacher": "杨佳宇", "period": 3},
+        {"subject": "政治", "teacher": "金真珍", "period": 4},
+        {"subject": "物理", "teacher": "陈婧", "period": 5},
+        {"subject": "地理", "teacher": "周绍驰", "period": 6},
+        {"subject": "体育", "teacher": "陈兴可", "period": 7},
+        {"subject": "综合实践课", "teacher": "胡俊柏", "period": 8}
+      ],
+      "tuesday": [
+        {"subject": "语文", "teacher": "杨佳宇", "period": 1},
+        {"subject": "地理", "teacher": "周绍驰", "period": 2},
+        {"subject": "数学", "teacher": "程昌磊", "period": 3},
+        {"subject": "历史", "teacher": "李英睿", "period": 4},
+        {"subject": "物理", "teacher": "陈婧", "period": 5},
+        {"subject": "生物", "teacher": "胡俊柏", "period": 6},
+        {"subject": "英语", "teacher": "一B英人", "period": 7},
+        {"subject": "周前会", "teacher": "胡俊柏", "period": 8}
+      ],
+      "wednesday": [
+        {"subject": "语文", "teacher": "杨佳宇", "period": 1},
+        {"subject": "英语", "teacher": "一B英人", "period": 2},
+        {"subject": "化学", "teacher": "高有克", "period": 3},
+        {"subject": "政治", "teacher": "金真珍", "period": 4},
+        {"subject": "生物", "teacher": "胡俊柏", "period": 5},
+        {"subject": "体育", "teacher": "陈兴可", "period": 6},
+        {"subject": "地理", "teacher": "周绍驰", "period": 7},
+        {"subject": "数学", "teacher": "程昌磊", "period": 8}
+      ],
+      "thursday": [
+        {"subject": "政治", "teacher": "金真珍", "period": 1},
+        {"subject": "语文", "teacher": "杨佳宇", "period": 2},
+        {"subject": "数学", "teacher": "程昌磊", "period": 3},
+        {"subject": "英语", "teacher": "一B英人", "period": 4},
+        {"subject": "信息", "teacher": "张锋", "period": 5},
+        {"subject": "心理", "teacher": "卓旭东", "period": 6},
+        {"subject": "历史", "teacher": "李英睿", "period": 7},
+        {"subject": "化学", "teacher": "高有克", "period": 8}
+      ],
+      "friday": [
+        {"subject": "历史", "teacher": "李英睿", "period": 1},
+        {"subject": "化学", "teacher": "高有克", "period": 2},
+        {"subject": "英语", "teacher": "一B英人", "period": 3},
+        {"subject": "物理", "teacher": "陈婧", "period": 4},
+        {"subject": "地理", "teacher": "周绍驰", "period": 5},
+        {"subject": "生物", "teacher": "胡俊柏", "period": 6},
+        {"subject": "语文", "teacher": "杨佳宇", "period": 7},
+        {"subject": "数学", "teacher": "程昌磊", "period": 8}
+      ],
+      "saturday": [
+        {"subject": "数学", "teacher": "程昌磊", "period": 1},
+        {"subject": "英语", "teacher": "一B英人", "period": 2},
+        {"subject": "语文", "teacher": "杨佳宇", "period": 3},
+        {"subject": "历史", "teacher": "李英睿", "period": 4}
+      ],
+      "sunday": []
+    }
+  },
+  {
+    "class": "4",
+    "schedule": {
+      "monday": [
+        {"subject": "英语", "teacher": "一B英人", "period": 1},
+        {"subject": "数学", "teacher": "金秀清", "period": 2},
+        {"subject": "语文", "teacher": "朱早明", "period": 3},
+        {"subject": "生物", "teacher": "吴正准", "period": 4},
+        {"subject": "化学", "teacher": "黄晓节", "period": 5},
+        {"subject": "地理", "teacher": "韩明礼", "period": 6},
+        {"subject": "历史", "teacher": "常晓丽", "period": 7},
+        {"subject": "综合实践课", "teacher": "赵新洋", "period": 8}
+      ],
+      "tuesday": [
+        {"subject": "数学", "teacher": "金秀清", "period": 1},
+        {"subject": "语文", "teacher": "朱早明", "period": 2},
+        {"subject": "语文", "teacher": "朱早明", "period": 3},
+        {"subject": "地理", "teacher": "韩明礼", "period": 4},
+        {"subject": "物理", "teacher": "赵新洋", "period": 5},
+        {"subject": "政治", "teacher": "陈金海", "period": 6},
+        {"subject": "英语", "teacher": "一B英人", "period": 7},
+        {"subject": "周前会", "teacher": "赵新洋", "period": 8}
+      ],
+      "wednesday": [
+        {"subject": "语文", "teacher": "朱早明", "period": 1},
+        {"subject": "英语", "teacher": "一B英人", "period": 2},
+        {"subject": "物理", "teacher": "赵新洋", "period": 3},
+        {"subject": "数学", "teacher": "金秀清", "period": 4},
+        {"subject": "政治", "teacher": "陈金海", "period": 5},
+        {"subject": "化学", "teacher": "黄晓节", "period": 6},
+        {"subject": "体育", "teacher": "陈瑞英", "period": 7},
+        {"subject": "历史", "teacher": "常晓丽", "period": 8}
+      ],
+      "thursday": [
+        {"subject": "地理", "teacher": "韩明礼", "period": 1},
+        {"subject": "语文", "teacher": "朱早明", "period": 2},
+        {"subject": "数学", "teacher": "金秀清", "period": 3},
+        {"subject": "英语", "teacher": "一B英人", "period": 4},
+        {"subject": "物理", "teacher": "赵新洋", "period": 5},
+        {"subject": "音乐", "teacher": "黄振付", "period": 6},
+        {"subject": "生物", "teacher": "吴正准", "period": 7},
+        {"subject": "化学", "teacher": "黄晓节", "period": 8}
+      ],
+      "friday": [
+        {"subject": "语文", "teacher": "朱早明", "period": 1},
+        {"subject": "物理", "teacher": "赵新洋", "period": 2},
+        {"subject": "英语", "teacher": "一B英人", "period": 3},
+        {"subject": "化学", "teacher": "黄晓节", "period": 4},
+        {"subject": "数学", "teacher": "金秀清", "period": 5},
+        {"subject": "心理", "teacher": "卓旭东", "period": 6},
+        {"subject": "生物", "teacher": "吴正准", "period": 7},
+        {"subject": "政治", "teacher": "陈金海", "period": 8}
+      ],
+      "saturday": [
+        {"subject": "政治", "teacher": "陈金海", "period": 1},
+        {"subject": "英语", "teacher": "一B英人", "period": 2},
+        {"subject": "数学", "teacher": "金秀清", "period": 3},
+        {"subject": "历史", "teacher": "常晓丽", "period": 4}     
+      ],
+      "sunday": []
+    }
+  },
+  {
+    "class": "5",
+    "schedule": {
+      "monday": [
+      {"subject": "英语", "teacher": "一B英人", "period": 1},
+      {"subject": "数学", "teacher": "林申奥", "period": 2},
+      {"subject": "化学", "teacher": "黄晓节", "period": 3},
+      {"subject": "政治", "teacher": "陈金海", "period": 4},
+      {"subject": "语文", "teacher": "黄则昌", "period": 5},
+      {"subject": "历史", "teacher": "常晓丽", "period": 6},
+      {"subject": "生物", "teacher": "胡俊柏", "period": 7},
+      {"subject": "综合实践课", "teacher": "张锋", "period": 8}
+    ],
+    "tuesday": [
+      {"subject": "语文", "teacher": "黄则昌", "period": 1},
+      {"subject": "地理", "teacher": "韩明礼", "period": 2},
+      {"subject": "数学", "teacher": "林申奥", "period": 3},
+      {"subject": "物理", "teacher": "陈婧", "period": 4},
+      {"subject": "历史", "teacher": "常晓丽", "period": 5},
+      {"subject": "信息", "teacher": "张锋", "period": 6},
+      {"subject": "英语", "teacher": "一B英人", "period": 7},
+      {"subject": "周前会", "teacher": "张锋", "period": 8}
+    ],
+    "wednesday": [
+      {"subject": "政治", "teacher": "陈金海", "period": 1},
+      {"subject": "英语", "teacher": "一B英人", "period": 2},
+      {"subject": "语文", "teacher": "黄则昌", "period": 3},
+      {"subject": "生物", "teacher": "胡俊柏", "period": 4},
+      {"subject": "心理", "teacher": "卓旭东", "period": 5},
+      {"subject": "数学", "teacher": "林申奥", "period": 6},
+      {"subject": "化学", "teacher": "黄晓节", "period": 7},
+      {"subject": "体育", "teacher": "陈瑞英", "period": 8}
+    ],
+    "thursday": [
+      {"subject": "历史", "teacher": "常晓丽", "period": 1},
+      {"subject": "语文", "teacher": "黄则昌", "period": 2},
+      {"subject": "数学", "teacher": "林申奥", "period": 3},
+      {"subject": "英语", "teacher": "一B英人", "period": 4},
+      {"subject": "音乐", "teacher": "黄振付", "period": 5},
+      {"subject": "物理", "teacher": "陈婧", "period": 6},
+      {"subject": "生物", "teacher": "胡俊柏", "period": 7},
+      {"subject": "体育", "teacher": "陈瑞英", "period": 8}
+    ],
+    "friday": [
+      {"subject": "物理", "teacher": "陈婧", "period": 1},
+      {"subject": "化学", "teacher": "黄晓节", "period": 2},
+      {"subject": "英语", "teacher": "一B英人", "period": 3},
+      {"subject": "数学", "teacher": "林申奥", "period": 4},
+      {"subject": "地理", "teacher": "韩明礼", "period": 5},
+      {"subject": "历史", "teacher": "常晓丽", "period": 6},
+      {"subject": "政治", "teacher": "陈金海", "period": 7},
+      {"subject": "地理", "teacher": "韩明礼", "period": 8}
+    ],
+    "saturday": [
+      {"subject": "数学", "teacher": "林申奥", "period": 1},
+      {"subject": "英语", "teacher": "一B英人", "period": 2},
+      {"subject": "语文", "teacher": "黄则昌", "period": 3},
+      {"subject": "政治", "teacher": "陈金海", "period": 4}
+      ],
+      "sunday": []
+    }
+  },
+  {
+    "class": "6",
+    "schedule": {
+      "monday": [
+        {"subject": "英语", "teacher": "一B英人", "period": 1},
+        {"subject": "语文", "teacher": "杨佳宇", "period": 2},
+        {"subject": "生物", "teacher": "吴正准", "period": 3},
+        {"subject": "数学", "teacher": "王丽", "period": 4},
+        {"subject": "历史", "teacher": "李英睿", "period": 5},
+        {"subject": "物理", "teacher": "赵新洋", "period": 6},
+        {"subject": "政治", "teacher": "金真珍", "period": 7},
+        {"subject": "综合实践课", "teacher": "周小微", "period": 8}
+      ],
+      "tuesday": [
+        {"subject": "地理", "teacher": "周绍驰", "period": 1},
+        {"subject": "历史", "teacher": "李英睿", "period": 2},
+        {"subject": "语文", "teacher": "杨佳宇", "period": 3},
+        {"subject": "化学", "teacher": "高有克", "period": 4},
+        {"subject": "数学", "teacher": "王丽", "period": 5},
+        {"subject": "体育", "teacher": "陈瑞英", "period": 6},
+        {"subject": "英语", "teacher": "一B英人", "period": 7},
+        {"subject": "周前会", "teacher": "周小微", "period": 8}
+      ],
+      "wednesday": [
+        {"subject": "政治", "teacher": "金真珍", "period": 1},
+        {"subject": "英语", "teacher": "一B英人", "period": 2},
+        {"subject": "语文", "teacher": "杨佳宇", "period": 3},
+        {"subject": "物理", "teacher": "赵新洋", "period": 4},
+        {"subject": "政治", "teacher": "金真珍", "period": 5},
+        {"subject": "音乐", "teacher": "黄振付", "period": 6},
+        {"subject": "生物", "teacher": "吴正准", "period": 7},
+        {"subject": "信息", "teacher": "张锋", "period": 8}
+      ],
+      "thursday": [
+        {"subject": "语文", "teacher": "杨佳宇", "period": 1},
+        {"subject": "数学", "teacher": "王丽", "period": 2},
+        {"subject": "化学", "teacher": "高有克", "period": 3},
+        {"subject": "英语", "teacher": "一B英人", "period": 4},
+        {"subject": "心理", "teacher": "卓旭东", "period": 5},
+        {"subject": "体育", "teacher": "陈瑞英", "period": 6},
+        {"subject": "历史", "teacher": "李英睿", "period": 7}
+      ],
+      "friday": [
+        {"subject": "数学", "teacher": "王丽", "period": 1},
+        {"subject": "历史", "teacher": "李英睿", "period": 2},
+        {"subject": "英语", "teacher": "一B英人", "period": 3},
+        {"subject": "政治", "teacher": "金真珍", "period": 4},
+        {"subject": "化学", "teacher": "高有克", "period": 5},
+        {"subject": "地理", "teacher": "周绍驰", "period": 6},
+        {"subject": "物理", "teacher": "赵新洋", "period": 7}
+      ],
+      "saturday": [
+        {"subject": "语文", "teacher": "杨佳宇", "period": 1},
+        {"subject": "英语", "teacher": "一B英人", "period": 2},
+        {"subject": "数学", "teacher": "王丽", "period": 3},
+        {"subject": "地理", "teacher": "周绍驰", "period": 4}
+      ],
+      "sunday": []
+    }
+  },
+  {
+    "class": "7",
+    "schedule": {
+      "monday": [
+        {"subject": "数学", "teacher": "金秀清", "period": 1},
+        {"subject": "英语", "teacher": "一A英人", "period": 2},
+        {"subject": "历史", "teacher": "李英睿", "period": 3},
         {"subject": "语文", "teacher": "吴贤雯", "period": 4},
-        {"subject": "地理", "teacher": "赫明礼", "period": 5},
-        {"subject": "生物", "teacher": "胡俊柏", "period": 6}
+        {"subject": "生物", "teacher": "吴正准", "period": 5},
+        {"subject": "政治", "teacher": "陈金海", "period": 6},
+        {"subject": "物理", "teacher": "赵新洋", "period": 7},
+        {"subject": "综合实践课", "teacher": "陈金海", "period": 8}
+      ],
+      "tuesday": [
+        {"subject": "地理", "teacher": "韩明礼", "period": 1},
+        {"subject": "数学", "teacher": "金秀清", "period": 2},
+        {"subject": "语文", "teacher": "吴贤雯", "period": 3},
+        {"subject": "体育", "teacher": "陈瑞英", "period": 4},
+        {"subject": "历史", "teacher": "李英睿", "period": 5},
+        {"subject": "物理", "teacher": "赵新洋", "period": 6},
+        {"subject": "物理", "teacher": "赵新洋", "period": 7},
+        {"subject": "周前会", "teacher": "陈金海", "period": 8}
+      ],
+      "wednesday": [
+        {"subject": "英语", "teacher": "一A英人", "period": 1},
+        {"subject": "政治", "teacher": "陈金海", "period": 2},
+        {"subject": "地理", "teacher": "韩明礼", "period": 3},
+        {"subject": "化学", "teacher": "高有克", "period": 4},
+        {"subject": "数学", "teacher": "金秀清", "period": 5},
+        {"subject": "体育", "teacher": "陈瑞英", "period": 6},
+        {"subject": "语文", "teacher": "吴贤雯", "period": 7},
+        {"subject": "心理", "teacher": "卓旭东", "period": 8}
+      ],
+      "thursday": [
+        {"subject": "政治", "teacher": "陈金海", "period": 1},
+        {"subject": "语文", "teacher": "吴贤雯", "period": 2},
+        {"subject": "英语", "teacher": "一A英人", "period": 3},
+        {"subject": "地理", "teacher": "韩明礼", "period": 4},
+        {"subject": "数学", "teacher": "金秀清", "period": 5},
+        {"subject": "历史", "teacher": "李英睿", "period": 6},
+        {"subject": "化学", "teacher": "高有克", "period": 7},
+        {"subject": "生物", "teacher": "吴正准", "period": 8}
+      ],
+      "friday": [
+        {"subject": "化学", "teacher": "高有克", "period": 1},
+        {"subject": "数学", "teacher": "金秀清", "period": 2},
+        {"subject": "语文", "teacher": "吴贤雯", "period": 3},
+        {"subject": "英语", "teacher": "一A英人", "period": 4},
+        {"subject": "历史", "teacher": "李英睿", "period": 5},
+        {"subject": "物理", "teacher": "赵新洋", "period": 6},
+        {"subject": "地理", "teacher": "韩明礼", "period": 7},
+        {"subject": "生物", "teacher": "吴正准", "period": 8}
+      ],
+      "saturday": [
+        {"subject": "化学", "teacher": "高有克", "period": 1},
+        {"subject": "政治", "teacher": "陈金海", "period": 2},
+        {"subject": "语文", "teacher": "吴贤雯", "period": 3},
+        {"subject": "数学", "teacher": "金秀清", "period": 4}
+      ],
+      "sunday": []
+    }
+  },
+  {
+    "class": "8",
+    "schedule": {
+      "monday": [
+        {"subject": "数学", "teacher": "程昌磊", "period": 1},
+        {"subject": "英语", "teacher": "一A英人", "period": 2},
+        {"subject": "物理", "teacher": "陈婧", "period": 3},
+        {"subject": "语文", "teacher": "朱早明", "period": 4},
+        {"subject": "政治", "teacher": "金真珍", "period": 5},
+        {"subject": "体育", "teacher": "陈瑞英", "period": 6},
+        {"subject": "地理", "teacher": "周绍驰", "period": 7},
+        {"subject": "综合实践课", "teacher": "朱早明", "period": 8}
+      ],
+      "tuesday": [
+        {"subject": "语文", "teacher": "朱早明", "period": 1},
+        {"subject": "历史", "teacher": "常晓丽", "period": 2},
+        {"subject": "物理", "teacher": "陈婧", "period": 3},
+        {"subject": "数学", "teacher": "程昌磊", "period": 4},
+        {"subject": "地理", "teacher": "周绍驰", "period": 5},
+        {"subject": "英语", "teacher": "一A英人", "period": 6},
+        {"subject": "体育", "teacher": "陈瑞英", "period": 7},
+        {"subject": "周前会", "teacher": "朱早明", "period": 8}
+      ],
+      "wednesday": [
+        {"subject": "英语", "teacher": "一A英人", "period": 1},
+        {"subject": "语文", "teacher": "朱早明", "period": 2},
+        {"subject": "语文", "teacher": "朱早明", "period": 3},
+        {"subject": "音乐", "teacher": "黄振付", "period": 4},
+        {"subject": "政治", "teacher": "金真珍", "period": 5},
+        {"subject": "数学", "teacher": "程昌磊", "period": 6},
+        {"subject": "历史", "teacher": "常晓丽", "period": 7},
+        {"subject": "化学", "teacher": "黄晓节", "period": 8}
+      ],
+      "thursday": [
+        {"subject": "语文", "teacher": "朱早明", "period": 1},
+        {"subject": "政治", "teacher": "金真珍", "period": 2},
+        {"subject": "英语", "teacher": "一A英人", "period": 3},
+        {"subject": "数学", "teacher": "程昌磊", "period": 4},
+        {"subject": "历史", "teacher": "常晓丽", "period": 5},
+        {"subject": "化学", "teacher": "黄晓节", "period": 6},
+        {"subject": "地理", "teacher": "周绍驰", "period": 7},
+        {"subject": "生物", "teacher": "胡俊柏", "period": 8}
+      ],
+      "friday": [
+        {"subject": "政治", "teacher": "金真珍", "period": 1},
+        {"subject": "语文", "teacher": "朱早明", "period": 2},
+        {"subject": "物理", "teacher": "陈婧", "period": 3},
+        {"subject": "英语", "teacher": "一A英人", "period": 4},
+        {"subject": "化学", "teacher": "黄晓节", "period": 5},
+        {"subject": "数学", "teacher": "程昌磊", "period": 6},
+        {"subject": "地理", "teacher": "周绍驰", "period": 7},
+        {"subject": "生物", "teacher": "胡俊柏", "period": 8}
+      ],
+      "saturday": [
+        {"subject": "英语", "teacher": "一A英人", "period": 1},
+        {"subject": "历史", "teacher": "常晓丽", "period": 2},
+        {"subject": "生物", "teacher": "胡俊柏", "period": 4},
+        {"subject": "数学", "teacher": "程昌磊", "period": 5}
       ],
       "sunday": []
     }
   }
+
+
 ]
